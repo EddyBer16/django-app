@@ -1,0 +1,3 @@
+.vscode/
+*/.pep8
+*/db.sqlite3
